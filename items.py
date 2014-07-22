@@ -9,4 +9,4 @@ import scrapy
 
 
 class CircolariItem(scrapy.Item):
-    link = scrapy.Field()
+    pdflink = scrapy.Field()
